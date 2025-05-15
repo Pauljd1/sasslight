@@ -2,6 +2,10 @@
 
 ![Landing Page Preview](https://i.ibb.co/7N0KpGLy/ai-Landing-Page.png)
 
+## Live Demo
+
+Check out the live demo: [SaaS Landing Page](https://sasslight-3x4e.vercel.app/)
+
 ## Overview
 
 This project is a modern and responsive SaaS landing page template designed to streamline your workflow and boost productivity. It is built with cutting-edge technologies to ensure high performance and scalability.
